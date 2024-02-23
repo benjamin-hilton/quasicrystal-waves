@@ -1,0 +1,14 @@
+{
+    "latticeGeneration": {
+        "springConstant": 1.0,
+        "massRatio":  2.0,
+        "massDefault": 1.0,
+        "generationCount": 11,
+        "generationFunction": "alternating_masses_1D",
+        "methodName": "Alternating Masses",
+	"size": {
+            "width": 6,
+            "height": 5
+        }
+    }
+}
